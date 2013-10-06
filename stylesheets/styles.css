@@ -93,6 +93,8 @@ th {
 
 img {
   max-width:100%;
+  margin-bottom:20px;
+  border: 5px solid black;
 }
 
 header {
@@ -252,8 +254,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-
-img {
-  margin-bottom: 20px;
 }
